@@ -2,5 +2,5 @@
 
 
 
-use node app.js
+run node app.js
 
